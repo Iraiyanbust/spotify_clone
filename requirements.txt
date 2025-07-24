@@ -26,3 +26,4 @@ sqlparse==0.4.3
 urllib3==1.26.14
 websockets==11.0.3
 whitenoise==6.6.0
+//to be changed
